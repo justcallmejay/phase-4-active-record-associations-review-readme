@@ -23,3 +23,5 @@ PostTag.create(post_id: post3.id, tag_id: tag2.id)
 
 PostTag.create(post_id: post4.id, tag_id: tag2.id)
 PostTag.create(post_id: post4.id, tag_id: tag3.id)
+
+puts 'seed'
